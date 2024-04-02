@@ -1,1 +1,1 @@
-# Infoslicing_Activity
+# Infoslicer_Activity
